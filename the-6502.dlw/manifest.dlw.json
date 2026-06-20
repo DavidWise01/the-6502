@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE MOS 6502",
+  "universe": "6502 · THE MOS 6502 (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦THE MOS 6502:6502:765b97⟧",
+  "carbon": "the-6502.carbon.tiff (TIFF)",
+  "silicon": "the-6502.silicon.png (PNG)",
+  "seal_sha256": "59b6cd566e34eec7c1989776f8ecb07ce20c31d1b2efcd8ba3cfeab496257e0e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

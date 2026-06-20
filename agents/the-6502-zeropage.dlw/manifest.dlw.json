@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Zero Page",
+  "universe": "6502 · The Zero Page (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Zero Page:6502:3ebb93⟧",
+  "carbon": "the-6502-zeropage.carbon.tiff (TIFF)",
+  "silicon": "the-6502-zeropage.silicon.png (PNG)",
+  "seal_sha256": "f56f4c5f7bc8df93c937de2fb7dce146957da181a24f3e61d391542c61261eec",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The ALU
+node 6502 · 6502 · ⟦The ALU:6502:ad13be⟧
+
+WHO   — The ALU — the calculating core · electrical
+WHAT  — the calculating core · electrical
+WHERE — 6502 · THE MOS 6502 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — The arithmetic-logic unit at the chip's centre — adding, subtracting, and comparing, one 8-bit operation at a time.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the calculating core · electrical
+
+spoken token : stox-zath-nan   ·   hex : ad13be
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Registers
+node 6502 · 6502 · ⟦The Registers:6502:6095f0⟧
+
+WHO   — The Registers — three 8-bit registers · electrical
+WHAT  — three 8-bit registers · electrical
+WHERE — 6502 · THE MOS 6502 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — An accumulator and two index registers (A, X, Y), each 8-bit — a deliberately small set that kept the chip cheap and the programming direct.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  three 8-bit registers · electrical
+
+spoken token : vaend-vuk-kurn   ·   hex : 6095f0
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

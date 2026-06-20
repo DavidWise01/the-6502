@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-6502-registers",
+    "name": "The Registers",
+    "epithet": "three 8-bit registers · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Registers:6502:6095f0⟧"
+  },
+  {
+    "slug": "the-6502-alu",
+    "name": "The ALU",
+    "epithet": "the calculating core · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The ALU:6502:ad13be⟧"
+  },
+  {
+    "slug": "the-6502-zeropage",
+    "name": "The Zero Page",
+    "epithet": "fast variables · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Zero Page:6502:3ebb93⟧"
+  },
+  {
+    "slug": "the-6502-price",
+    "name": "The $25 Price",
+    "epithet": "the real revolution · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The $25 Price:6502:bcf0c4⟧"
+  },
+  {
+    "slug": "the-6502-opcodes",
+    "name": "The Undocumented Opcodes",
+    "epithet": "accidental instructions · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Undocumented Opcodes:6502:ec348b⟧"
+  },
+  {
+    "slug": "the-6502-legacy",
+    "name": "The Machines It Powered",
+    "epithet": "an era on one chip · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Machines It Powered:6502:689df8⟧"
+  }
+]

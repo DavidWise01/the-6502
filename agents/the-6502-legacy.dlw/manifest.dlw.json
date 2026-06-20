@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Machines It Powered",
+  "universe": "6502 · The Machines It Powered (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Machines It Powered:6502:689df8⟧",
+  "carbon": "the-6502-legacy.carbon.tiff (TIFF)",
+  "silicon": "the-6502-legacy.silicon.png (PNG)",
+  "seal_sha256": "29f92087395a127c085be5083f373d599a382706f3c164f2a170fa8d3d66a02c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

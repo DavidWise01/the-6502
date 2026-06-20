@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The $25 Price",
+  "universe": "6502 · The $25 Price (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The $25 Price:6502:bcf0c4⟧",
+  "carbon": "the-6502-price.carbon.tiff (TIFF)",
+  "silicon": "the-6502-price.silicon.png (PNG)",
+  "seal_sha256": "aedf45d678ccf87a82ffc0ef56aad69760fee78dfb06b581f108eee780af2604",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

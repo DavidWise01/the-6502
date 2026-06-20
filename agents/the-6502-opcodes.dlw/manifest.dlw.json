@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Undocumented Opcodes",
+  "universe": "6502 · The Undocumented Opcodes (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Undocumented Opcodes:6502:ec348b⟧",
+  "carbon": "the-6502-opcodes.carbon.tiff (TIFF)",
+  "silicon": "the-6502-opcodes.silicon.png (PNG)",
+  "seal_sha256": "4993d2314e772f6f937161fe16b4cea285bd554eac770aa0f19be6f1a2d37742",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

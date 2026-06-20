@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The ALU",
+  "universe": "6502 · The ALU (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The ALU:6502:ad13be⟧",
+  "carbon": "the-6502-alu.carbon.tiff (TIFF)",
+  "silicon": "the-6502-alu.silicon.png (PNG)",
+  "seal_sha256": "656fedcb59a13fae48b5258befa629413e9ae5596858f117958c431046f65aeb",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

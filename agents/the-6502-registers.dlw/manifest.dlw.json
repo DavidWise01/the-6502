@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Registers",
+  "universe": "6502 · The Registers (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Registers:6502:6095f0⟧",
+  "carbon": "the-6502-registers.carbon.tiff (TIFF)",
+  "silicon": "the-6502-registers.silicon.png (PNG)",
+  "seal_sha256": "bba59c673a5a26ef706393652b77884eeea2271252a56c61d6b662a997c0d8fa",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
